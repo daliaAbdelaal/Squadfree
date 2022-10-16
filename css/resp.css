@@ -1,0 +1,45 @@
+@media screen and (max-width: 768px)
+{
+    .navbar-toggler-icon i
+    {
+        color: #fff;
+        padding: 5px 15px 0 0;
+    }
+    .navbar-brand
+    {
+        padding-left: 15px;
+    }
+    .header-content h1
+    {
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .header-content p
+    {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 30px;
+    }
+    #about
+    {
+        text-align: center;
+    }
+    .member:hover .social
+    {
+        top: 103%;
+        
+    }
+    .contact-info .inputs
+    {
+        display: block !important;
+    }
+    .contact-info input[name="username"],input[name="email"]
+    {
+        width: 100%;
+    }
+    .contact-info input[name="email"]
+    {
+        margin-top: 15px;
+    }
+
+}
