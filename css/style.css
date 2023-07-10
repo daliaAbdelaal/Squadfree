@@ -7,6 +7,9 @@ body
         font-family: 'Open Sans', sans-serif;
         color: #444;
 }
+.slick-next {
+    right: 0;
+}
  .scrollup i
 {
         color: #fff;

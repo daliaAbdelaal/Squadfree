@@ -1,5 +1,11 @@
 @media screen and (max-width: 768px)
 {
+    body
+    {
+        padding-right: 0;
+        margin-right: 0;
+        padding-left: 0;
+    }
     .navbar-toggler-icon i
     {
         color: #fff;
